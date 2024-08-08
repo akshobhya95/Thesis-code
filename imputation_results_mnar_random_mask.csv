@@ -1,0 +1,9 @@
+Imputation Method;RMSE;MAE;R^2
+Simple Imputer (Mean);0.011957265;0.0242785;0.907399436
+Simple Imputer (Median);0.015250815;0.0340315;0.882061719
+KNN Imputer;0.0130592;0.026766;0.898891711
+Iterative Imputer (Sample Posterior);0.012569815;0.0245395;0.90276479
+Iterative Imputer (No Sample Posterior);0.01216898;0.02403;0.905830891
+KNN Imputer (3 Nearest Neighbors);0.013759235;0.0285895;0.893573336
+KNN Imputer (9 Nearest Neighbors);0.01250173;0.024865;0.903174838
+Simple Imputer (Most Frequent);0.01516895;0.034582;0.882712324
